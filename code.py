@@ -1,11 +1,7 @@
-name="Julio github"
+name="Julio local"
 surname="Vargas Lucky"
 
 print("Hola " + name +" "+ surname)
-
-
-
-
 
 
 
