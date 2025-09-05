@@ -1,5 +1,6 @@
-# julio-git
+# julio-git 
 This is first repo in github
 
-##descripcion
+##description
+
 This is repo only to learn git
