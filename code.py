@@ -1,8 +1,8 @@
 name="Julio Cesar"
-name="pipo"
-surname="Vargas"
+surname="Vargas Lucky"
 
 print("Hola " + name +" "+ surname)
+
 
 
 
